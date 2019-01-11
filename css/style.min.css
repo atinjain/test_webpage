@@ -149,7 +149,7 @@ p {
   list-style-type: none;
 }
 
-p, blockquote {
+blockquote {
   font-family: "Book Antiqua", "Palatino Linotype", Georgia, serif;
   text-align: justify;
   color: #4e4e4e;
