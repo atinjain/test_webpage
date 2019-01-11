@@ -142,18 +142,18 @@ h1 {
 
 li,
 a,
-p, blockquote  {
+p {
   font-family: Verdana, Helvetica, Arial, sans-serif;
   color: #4e4e4e;
   text-decoration: none;
   list-style-type: none;
 }
 
-/*p,
-{
+p, blockquote {
+  font-family: "Book Antiqua", "Palatino Linotype", Georgia, serif;
   text-align: justify;
   color: #4e4e4e;
-}*/
+}
 
 ul,
 p {
