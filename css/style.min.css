@@ -155,6 +155,14 @@ blockquote {
   color: #4e4e4e;
 }
 
+p {
+  text-align: justify;
+}
+
+#skills li {
+  text-align: justify;
+}
+
 ul,
 p {
   padding-inline-start: 0px;
